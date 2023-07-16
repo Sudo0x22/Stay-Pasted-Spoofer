@@ -144,7 +144,8 @@
     <ClInclude Include="includes\modules\security\xorstr.h" />
     <ClInclude Include="includes\modules\spoofer\spoofer.hpp" />
     <ClInclude Include="includes\utils\Build\build.h" />
-    <ClInclude Include="includes\utils\Image\Image.h" />
+    <ClInclude Include="includes\utils\Image\driver.h" />
+    <ClInclude Include="includes\utils\Image\mapper.h" />
     <ClInclude Include="includes\utils\Process\process.h" />
     <ClInclude Include="includes\utils\utils.h" />
   </ItemGroup>

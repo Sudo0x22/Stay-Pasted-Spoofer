@@ -54,7 +54,10 @@
     <ClInclude Include="includes\utils\Build\build.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="includes\utils\Image\Image.h">
+    <ClInclude Include="includes\utils\Image\mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\utils\Image\driver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
